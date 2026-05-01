@@ -1,7 +1,7 @@
 # 💫 Hey there! Welcome to my data playground 📊
 Data analytics enthusiast who enjoys turning raw data into clear, interactive stories. Skilled in Excel, Power BI (DAX, bookmarks, interactive dashboards), SQL, and Python basics for data cleaning, analysis, and visualization. I actively integrate AI into my analytics workflow to uncover deeper insights and build smarter, business-focused dashboards. Currently creating projects in data analytics and business intelligence while continuously expanding my technical toolkit.<br>
 
-🛠️ Tech Stack<br>Advanced Excel: Pivot Tables, Pivot Charts, Dashboards<br>Power Query: Data cleaning & transformation<br>Power BI: DAX, Data Modeling, Interactive Dashboards, Bookmarks<br>SQL: Data querying, cleaning, and transformation<br>Python (Basics): Data Analysis<br>Exploratory Data Analysis (EDA)<br>Data Cleaning & Data Preparation<br>Data Visualization & Dashboard Storytelling<br>Business Analysis & Data-Driven Decision Making
+🛠️ Tech Stack<br> - Advanced Excel: Pivot Tables, Pivot Charts, Dashboards<br> - Power Query: Data cleaning & transformation<br> - Power BI: DAX, Data Modeling, Interactive Dashboards, Bookmarks<br> - SQL: Data querying, cleaning, and transformation<br> - Python (Basics): Data Analysis<br> - Exploratory Data Analysis (EDA)<br> - Data Cleaning & Data Preparation<br> - Data Visualization & Dashboard Storytelling<br> - Business Analysis & Data-Driven Decision Making
 
 
 ## 🌐 Socials:
